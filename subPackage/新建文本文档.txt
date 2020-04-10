@@ -1,0 +1,266 @@
+[ERROR]: Failed to load scene: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+
+2020-04-09 17:23:35.414 8004-8032/org.cocos2d.uptest V/AsyncHttpClient: Beware! Using the fix is insecure, as it doesn't verify SSL certificates.
+2020-04-09 17:23:35.421 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0)
+2020-04-09 17:23:35.422 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp)
+2020-04-09 17:23:35.424 8004-8032/org.cocos2d.uptest D/jswrapper: JS: ---------------------------url of project file:/data/user/0/org.cocos2d.uptest/files/2.0/pdk/project.manifest
+2020-04-09 17:23:35.426 8004-8032/org.cocos2d.uptest D/jswrapper: JS: manifest file doesnt exist: {"packageUrl":"http://192.168.1.53/jf2/remote-assets/","remoteManifestUrl":"http://192.168.1.53/jf2/remote-assets/pdk/project.manifest","remoteVersionUrl":"http://192.168.1.53/jf2/remote-assets/pdk/version.manifest","version":"1.0.0","assets":{},"searchPaths":[],"module":"pdk"}
+2020-04-09 17:23:35.427 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0)
+2020-04-09 17:23:35.428 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp)
+2020-04-09 17:23:35.433 8004-8032/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.0, version B is 1.0.2
+2020-04-09 17:23:35.523 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@40622a1 file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/version.manifest.tmp
+2020-04-09 17:23:35.531 8004-8032/org.cocos2d.uptest D/jswrapper: JS: 5  check cb=-------------------------------
+2020-04-09 17:23:35.534 8004-8032/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.2, version B is 1.0.2
+2020-04-09 17:23:35.561 8004-8032/org.cocos2d.uptest D/jswrapper: JS: 4  check cb=-------------------------------
+2020-04-09 17:23:35.564 8004-8032/org.cocos2d.uptest D/jswrapper: JS: project file exist
+2020-04-09 17:23:35.566 8004-8032/org.cocos2d.uptest D/jswrapper: JS: remove project file:true
+2020-04-09 17:23:35.566 8004-8032/org.cocos2d.uptest D/jswrapper: JS: go-----------------
+2020-04-09 17:23:42.514 8004-8032/org.cocos2d.uptest D/jswrapper: JS: LoadScene ffgmrwE5NPXJDLMwqfC48T: 6.246999999995751ms
+2020-04-09 17:23:42.514 8004-8032/org.cocos2d.uptest D/jswrapper: JS: [ERROR]: Failed to load scene: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+2020-04-09 17:23:44.207 8004-8032/org.cocos2d.uptest V/AsyncHttpClient: Beware! Using the fix is insecure, as it doesn't verify SSL certificates.
+2020-04-09 17:23:44.215 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0)
+2020-04-09 17:23:44.216 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp)
+2020-04-09 17:23:44.218 8004-8032/org.cocos2d.uptest D/jswrapper: JS: ---------------------------url of project file:/data/user/0/org.cocos2d.uptest/files/2.0/pdk/project.manifest
+2020-04-09 17:23:44.220 8004-8032/org.cocos2d.uptest D/jswrapper: JS: manifest file doesnt exist: {"packageUrl":"http://192.168.1.53/jf2/remote-assets/","remoteManifestUrl":"http://192.168.1.53/jf2/remote-assets/pdk/project.manifest","remoteVersionUrl":"http://192.168.1.53/jf2/remote-assets/pdk/version.manifest","version":"1.0.0","assets":{},"searchPaths":[],"module":"pdk"}
+2020-04-09 17:23:44.221 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0)
+2020-04-09 17:23:44.221 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp)
+2020-04-09 17:23:44.283 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@3c147dd file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/version.manifest.tmp
+2020-04-09 17:23:44.295 8004-8032/org.cocos2d.uptest D/jswrapper: JS: 5  check cb=-------------------------------
+2020-04-09 17:23:44.301 8004-8032/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.0, version B is 1.0.2
+2020-04-09 17:23:44.302 8004-8032/org.cocos2d.uptest D/jswrapper: JS: 3  check cb=-------------------------------
+2020-04-09 17:23:44.302 8004-8032/org.cocos2d.uptest D/jswrapper: JS: NEW_VERSION_FOUND
+2020-04-09 17:23:44.337 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@f1f1f52 file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/project.manifest.temp.tmp
+2020-04-09 17:23:44.353 8004-8032/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.0, version B is 1.0.2
+2020-04-09 17:23:44.381 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp)
+2020-04-09 17:23:44.384 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/2c)
+2020-04-09 17:23:44.385 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/5a)
+2020-04-09 17:23:44.420 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@e0f84d9 file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/2c/2c4ff8bd-bdcc-47d5-a4d7-e7f14cdf6b65.json.tmp
+2020-04-09 17:23:44.429 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/3f)
+2020-04-09 17:23:44.451 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@febde9e file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/5a/5aa917fe-4e6e-4847-b770-89456bda24a0.png.tmp
+2020-04-09 17:23:44.456 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/ff)
+2020-04-09 17:23:44.456 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@1761d7f file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/3f/3f27750a-7f5c-4ca4-bbaf-60e5b1e50718.json.tmp
+2020-04-09 17:23:44.459 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/5a)
+2020-04-09 17:23:44.500 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@b81714c file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/ff/ff826af0-1393-4f5c-90cb-330a9f0b8f13.json.tmp
+2020-04-09 17:23:44.500 8004-8004/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@36a9595 file:/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/5a/5aa917fe-4e6e-4847-b770-89456bda24a0.json.tmp
+2020-04-09 17:23:44.515 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp)
+2020-04-09 17:23:44.517 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp)
+2020-04-09 17:23:44.519 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res)
+2020-04-09 17:23:44.520 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import)
+2020-04-09 17:23:44.522 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/2c)
+2020-04-09 17:23:44.524 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/3f)
+2020-04-09 17:23:44.526 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/ff)
+2020-04-09 17:23:44.528 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/import/5a)
+2020-04-09 17:23:44.530 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/raw-assets)
+2020-04-09 17:23:44.531 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/5a)
+2020-04-09 17:23:44.532 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res)
+2020-04-09 17:23:44.533 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res/import)
+2020-04-09 17:23:44.533 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res/import/2c)
+2020-04-09 17:23:44.536 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res/import/3f)
+2020-04-09 17:23:44.538 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res/import/ff)
+2020-04-09 17:23:44.540 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res/import/5a)
+2020-04-09 17:23:44.542 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res/raw-assets)
+2020-04-09 17:23:44.543 8004-8032/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/user/0/org.cocos2d.uptest/files/2.0/res/raw-assets/5a)
+2020-04-09 17:23:44.572 8004-8032/org.cocos2d.uptest D/jswrapper: JS: upgrade finished =========================
+2020-04-09 17:23:44.575 8004-8032/org.cocos2d.uptest D/jswrapper: JS: project file exist
+2020-04-09 17:23:44.577 8004-8032/org.cocos2d.uptest E/cocos2d-x: Fail to rename file /data/user/0/org.cocos2d.uptest/files/2.0/project.manifest to /data/user/0/org.cocos2d.uptest/files/2.0/pdk/project.manifest !Error code is -1
+2020-04-09 17:23:44.577 8004-8032/org.cocos2d.uptest D/jswrapper: JS: rename project:false
+2020-04-09 17:23:44.577 8004-8032/org.cocos2d.uptest D/jswrapper: ScriptEngine::cleanup begin ...
+2020-04-09 17:23:44.577 8004-8032/org.cocos2d.uptest D/jswrapper: GC begin ..., (js->native map) size: 78, all objects: 168
+2020-04-09 17:23:44.689 8004-8032/org.cocos2d.uptest D/jswrapper: GC end ..., (js->native map) size: 39, all objects: 129
+2020-04-09 17:23:44.689 8004-8032/org.cocos2d.uptest D/jswrapper: GC begin ..., (js->native map) size: 39, all objects: 129
+2020-04-09 17:23:44.785 8004-8032/org.cocos2d.uptest D/jswrapper: GC end ..., (js->native map) size: 39, all objects: 129
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (15) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (12) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (11) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (6) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (16) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLProgram (3) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (9) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (8) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (10) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (13) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (1) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (1) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (17) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (2) by GC
+2020-04-09 17:23:44.788 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (5) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (2) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (14) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (3) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (7) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (3) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (4) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (4) by GC
+2020-04-09 17:23:44.789 8004-8032/org.cocos2d.uptest D/jswrapper: GC begin ..., (js->native map) size: 0, all objects: 0
+2020-04-09 17:23:44.895 8004-8032/org.cocos2d.uptest D/jswrapper: GC end ..., (js->native map) size: 0, all objects: 0
+2020-04-09 17:23:44.900 8004-8032/org.cocos2d.uptest D/jswrapper: ScriptEngine::cleanup end ...
+2020-04-09 17:23:44.901 8004-8032/org.cocos2d.uptest D/jswrapper: Initializing V8, version: 6.5.254.43
+2020-04-09 17:23:44.910 8004-8032/org.cocos2d.uptest D/jswrapper: libuv version: 1.13.1
+2020-04-09 17:23:44.912 8004-8305/org.cocos2d.uptest D/jswrapper: Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:6086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-04-09 17:23:44.912 8004-8305/org.cocos2d.uptest D/jswrapper: For help see https://nodejs.org/en/docs/inspector
+2020-04-09 17:23:45.026 8004-8032/org.cocos2d.uptest D/jswrapper: JS: Enable batch GL commands optimization!
+2020-04-09 17:23:45.759 8004-8032/org.cocos2d.uptest V/AsyncHttpClient: Beware! Using the fix is insecure, as it doesn't verify SSL certificates.
+2020-04-09 17:23:45.811 8004-8032/org.cocos2d.uptest D/jswrapper: glGetIntegerv: pname: 0x8b4c
+2020-04-09 17:23:45.836 8004-8032/org.cocos2d.uptest D/jswrapper: JS: Cocos Creator v2.0.10
+2020-04-09 17:23:45.988 8004-8032/org.cocos2d.uptest D/jswrapper: JS: LoadScene 9a2TT1bGBHQ5MugnilO+zS: 138.48099999999988ms
+2020-04-09 17:23:45.992 8004-8032/org.cocos2d.uptest D/jswrapper: JS: Success to load scene: db://assets/scenes/main.fire
+2020-04-09 17:23:46.107 8004-8032/org.cocos2d.uptest D/jswrapper: JS: create instance class of TTNetwork
+
+
+
+
+04-10 11:29:42.893 14247-14265/org.cocos2d.uptest D/jswrapper: JS: check_before Directory: /data/data/org.cocos2d.uptest/files/2.0_temp
+04-10 11:29:42.894 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:42.895 14247-14265/org.cocos2d.uptest V/AsyncHttpClient: Beware! Using the fix is insecure, as it doesn't verify SSL certificates.
+04-10 11:29:42.897 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0)
+04-10 11:29:42.897 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:42.899 14247-14265/org.cocos2d.uptest D/jswrapper: JS: ---------------------------url of project file:/data/data/org.cocos2d.uptest/files/2.0/mj/project.manifest
+04-10 11:29:42.900 14247-14265/org.cocos2d.uptest D/jswrapper: JS: manifest file doesnt exist: {"packageUrl":"http://192.168.1.53/jf2/remote-assets/","remoteManifestUrl":"http://192.168.1.53/jf2/remote-assets/mj/project.manifest","remoteVersionUrl":"http://192.168.1.53/jf2/remote-assets/mj/version.manifest","version":"1.0.0","assets":{},"searchPaths":[],"module":"mj"}
+04-10 11:29:42.906 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0)
+04-10 11:29:42.906 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:42.953 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@3a358e77 file:/data/data/org.cocos2d.uptest/files/2.0_temp/version.manifest.tmp
+04-10 11:29:42.955 14247-14265/org.cocos2d.uptest D/jswrapper: JS: 5  check cb=-------------------------------
+04-10 11:29:42.959 14247-14265/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.0, version B is 1.0.4
+04-10 11:29:42.959 14247-14265/org.cocos2d.uptest D/jswrapper: JS: 3  check cb=-------------------------------
+04-10 11:29:42.960 14247-14265/org.cocos2d.uptest D/jswrapper: JS: NEW_VERSION_FOUND
+04-10 11:29:42.973 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@1401ae4 file:/data/data/org.cocos2d.uptest/files/2.0_temp/project.manifest.temp.tmp
+04-10 11:29:43.001 14247-14265/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.0, version B is 1.0.4
+04-10 11:29:43.007 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:43.019 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/03)
+04-10 11:29:43.020 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/a1)
+04-10 11:29:43.027 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@339c4602 file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/a1/a10c174f-f941-402b-b412-45190b0fba6a.png.tmp
+04-10 11:29:43.042 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@3e6a9b13 file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/03/0334ace7-b82b-48a4-bff2-3dcde48ad65f.json.tmp
+04-10 11:29:43.044 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/bc)
+04-10 11:29:43.051 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/6b)
+04-10 11:29:43.052 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@12560150 file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/bc/bc3d82be-0d94-4d1c-81d0-3077c587d275.json.tmp
+04-10 11:29:43.060 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/1c)
+04-10 11:29:43.062 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@16e51f49 file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/6b/6b5205ba-7f24-45ce-ab90-7c8897395c7b.json.tmp
+04-10 11:29:43.064 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/6b)
+04-10 11:29:43.071 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@a8cc04e file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/6b/6b5205ba-7f24-45ce-ab90-7c8897395c7b.png.tmp
+04-10 11:29:43.072 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@2ad9d56f file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/1c/1c2c7828-b102-435f-8f22-80e8ac200ba1.json.tmp
+04-10 11:29:43.077 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/72)
+04-10 11:29:43.081 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@20a1e27c file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/72/727eee73-39ee-4071-9586-810f6b9a0c0e.json.tmp
+04-10 11:29:43.083 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/a1)
+04-10 11:29:43.086 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/7f)
+04-10 11:29:43.093 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@1fd76705 file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/7f/7f7e6987-32d3-4605-9b31-673fafab04da.json.tmp
+04-10 11:29:43.094 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@22f8935a file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/a1/a10c174f-f941-402b-b412-45190b0fba6a.json.tmp
+04-10 11:29:43.098 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/a5)
+04-10 11:29:43.105 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/a5)
+04-10 11:29:43.111 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@3258598b file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/a5/a5681d41-91c1-4363-9a7f-831c2d7e57e6.json.tmp
+04-10 11:29:43.112 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@2768aa68 file:/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/a5/a5681d41-91c1-4363-9a7f-831c2d7e57e6.png.tmp
+04-10 11:29:43.132 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:43.133 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:43.134 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res)
+04-10 11:29:43.135 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import)
+04-10 11:29:43.137 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/03)
+04-10 11:29:43.138 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/bc)
+04-10 11:29:43.138 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/6b)
+04-10 11:29:43.139 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/1c)
+04-10 11:29:43.140 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/72)
+04-10 11:29:43.141 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/a1)
+04-10 11:29:43.142 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/7f)
+04-10 11:29:43.143 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/import/a5)
+04-10 11:29:43.144 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets)
+04-10 11:29:43.145 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/a1)
+04-10 11:29:43.146 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/6b)
+04-10 11:29:43.147 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp/res/raw-assets/a5)
+04-10 11:29:43.147 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res)
+04-10 11:29:43.148 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import)
+04-10 11:29:43.148 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/03)
+04-10 11:29:43.149 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/bc)
+04-10 11:29:43.150 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/6b)
+04-10 11:29:43.151 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/1c)
+04-10 11:29:43.152 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/72)
+04-10 11:29:43.154 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/a1)
+04-10 11:29:43.155 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/7f)
+04-10 11:29:43.156 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/import/a5)
+04-10 11:29:43.157 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/raw-assets)
+04-10 11:29:43.157 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/raw-assets/a1)
+04-10 11:29:43.166 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/raw-assets/6b)
+04-10 11:29:43.167 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/res/raw-assets/a5)
+04-10 11:29:43.172 14247-14265/org.cocos2d.uptest D/jswrapper: JS: upgrade finished =========================
+04-10 11:29:43.174 14247-14265/org.cocos2d.uptest D/jswrapper: JS: project file exist
+04-10 11:29:43.178 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/mj)
+04-10 11:29:43.178 14247-14265/org.cocos2d.uptest D/jswrapper: JS: fullPath111: /data/data/org.cocos2d.uptest/files/2.0/mj false
+04-10 11:29:43.179 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/mj)
+04-10 11:29:43.179 14247-14265/org.cocos2d.uptest D/jswrapper: JS: createDir: /data/data/org.cocos2d.uptest/files/2.0/mj true
+04-10 11:29:43.180 14247-14265/org.cocos2d.uptest D/jswrapper: JS: project file writeStringToFile /data/data/org.cocos2d.uptest/files/2.0/mj/project.manifest true
+04-10 11:29:43.181 14247-14265/org.cocos2d.uptest D/jswrapper: ScriptEngine::cleanup begin ...
+04-10 11:29:43.181 14247-14265/org.cocos2d.uptest D/jswrapper: GC begin ..., (js->native map) size: 84, all objects: 173
+04-10 11:29:43.353 14247-14265/org.cocos2d.uptest D/jswrapper: GC end ..., (js->native map) size: 36, all objects: 125
+04-10 11:29:43.353 14247-14265/org.cocos2d.uptest D/jswrapper: GC begin ..., (js->native map) size: 36, all objects: 125
+04-10 11:29:43.464 14247-14265/org.cocos2d.uptest D/jswrapper: GC end ..., (js->native map) size: 36, all objects: 125
+04-10 11:29:43.466 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLProgram (3) by GC
+04-10 11:29:43.466 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (9) by GC
+04-10 11:29:43.466 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (14) by GC
+04-10 11:29:43.466 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (11) by GC
+04-10 11:29:43.467 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (13) by GC
+04-10 11:29:43.467 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (12) by GC
+04-10 11:29:43.467 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (10) by GC
+04-10 11:29:43.467 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (2) by GC
+04-10 11:29:43.467 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (8) by GC
+04-10 11:29:43.468 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (6) by GC
+04-10 11:29:43.469 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (1) by GC
+04-10 11:29:43.469 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (5) by GC
+04-10 11:29:43.469 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (4) by GC
+04-10 11:29:43.469 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (4) by GC
+04-10 11:29:43.469 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (3) by GC
+04-10 11:29:43.470 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (3) by GC
+04-10 11:29:43.470 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (7) by GC
+04-10 11:29:43.470 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (1) by GC
+04-10 11:29:43.470 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLBuffer (2) by GC
+04-10 11:29:43.470 14247-14265/org.cocos2d.uptest D/jswrapper: Destroy WebGLTexture (15) by GC
+04-10 11:29:43.472 14247-14265/org.cocos2d.uptest D/jswrapper: GC begin ..., (js->native map) size: 0, all objects: 0
+04-10 11:29:43.591 14247-14265/org.cocos2d.uptest D/jswrapper: GC end ..., (js->native map) size: 0, all objects: 0
+04-10 11:29:43.599 14247-14265/org.cocos2d.uptest D/jswrapper: ScriptEngine::cleanup end ...
+04-10 11:29:43.600 14247-14265/org.cocos2d.uptest D/jswrapper: Initializing V8, version: 6.5.254.43
+04-10 11:29:43.611 14247-14265/org.cocos2d.uptest D/jswrapper: libuv version: 1.13.1
+04-10 11:29:43.614 14247-14294/org.cocos2d.uptest D/jswrapper: Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:6086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+04-10 11:29:43.614 14247-14294/org.cocos2d.uptest D/jswrapper: For help see https://nodejs.org/en/docs/inspector
+04-10 11:29:43.715 14247-14265/org.cocos2d.uptest D/jswrapper: JS: Enable batch GL commands optimization!
+04-10 11:29:44.271 14247-14265/org.cocos2d.uptest V/AsyncHttpClient: Beware! Using the fix is insecure, as it doesn't verify SSL certificates.
+04-10 11:29:44.324 14247-14265/org.cocos2d.uptest D/jswrapper: glGetIntegerv: pname: 0x8b4c
+04-10 11:29:44.359 14247-14265/org.cocos2d.uptest D/jswrapper: JS: Cocos Creator v2.0.10
+04-10 11:29:44.488 14247-14265/org.cocos2d.uptest D/jswrapper: JS: LoadScene 9a2TT1bGBHQ5MugnilO+zS: 123.78300000000002ms
+04-10 11:29:44.494 14247-14265/org.cocos2d.uptest D/jswrapper: JS: Success to load scene: db://assets/scenes/main.fire
+04-10 11:29:44.612 14247-14265/org.cocos2d.uptest D/jswrapper: JS: create instance class of TTNetwork
+04-10 11:29:47.131 14247-14265/org.cocos2d.uptest D/jswrapper: JS: check_before Directory: /data/data/org.cocos2d.uptest/files/2.0_temp
+04-10 11:29:47.131 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:47.133 14247-14265/org.cocos2d.uptest V/AsyncHttpClient: Beware! Using the fix is insecure, as it doesn't verify SSL certificates.
+04-10 11:29:47.134 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0)
+04-10 11:29:47.134 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:47.135 14247-14265/org.cocos2d.uptest D/jswrapper: JS: ---------------------------url of project file:/data/data/org.cocos2d.uptest/files/2.0/mj/project.manifest
+04-10 11:29:47.144 14247-14265/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.4, version B is 1.0.4
+04-10 11:29:47.150 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@32806f03 file:/data/data/org.cocos2d.uptest/files/2.0_temp/version.manifest.tmp
+04-10 11:29:47.156 14247-14265/org.cocos2d.uptest D/jswrapper: JS: 5  check cb=-------------------------------
+04-10 11:29:47.157 14247-14265/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.4, version B is 1.0.4
+04-10 11:29:47.161 14247-14265/org.cocos2d.uptest D/jswrapper: JS: 4  check cb=-------------------------------
+04-10 11:29:47.163 14247-14265/org.cocos2d.uptest D/jswrapper: JS: project file exist
+04-10 11:29:47.164 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0/mj)
+04-10 11:29:47.164 14247-14265/org.cocos2d.uptest D/jswrapper: JS: fullPath111: /data/data/org.cocos2d.uptest/files/2.0/mj true
+04-10 11:29:47.165 14247-14265/org.cocos2d.uptest D/jswrapper: JS: project file writeStringToFile /data/data/org.cocos2d.uptest/files/2.0/mj/project.manifest true
+04-10 11:29:47.165 14247-14265/org.cocos2d.uptest D/jswrapper: JS: go-----------------
+04-10 11:29:48.756 14247-14265/org.cocos2d.uptest D/jswrapper: JS: LoadScene bcPYK+DZRNHIHQMHfFh9J1: 33.50999999999931ms
+04-10 11:29:49.333 14247-14265/org.cocos2d.uptest D/jswrapper: JS: LoadScene 9a2TT1bGBHQ5MugnilO+zS: 10.685999999999694ms
+04-10 11:29:49.375 14247-14265/org.cocos2d.uptest D/jswrapper: JS: create instance class of TTNetwork
+04-10 11:29:51.874 14247-14265/org.cocos2d.uptest D/jswrapper: JS: check_before Directory: /data/data/org.cocos2d.uptest/files/2.0_temp
+04-10 11:29:51.874 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:51.875 14247-14265/org.cocos2d.uptest V/AsyncHttpClient: Beware! Using the fix is insecure, as it doesn't verify SSL certificates.
+04-10 11:29:51.876 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0)
+04-10 11:29:51.876 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:51.877 14247-14265/org.cocos2d.uptest D/jswrapper: JS: ---------------------------url of project file:/data/data/org.cocos2d.uptest/files/2.0/pdk/project.manifest
+04-10 11:29:51.878 14247-14265/org.cocos2d.uptest D/jswrapper: JS: manifest file doesnt exist: {"packageUrl":"http://192.168.1.53/jf2/remote-assets/","remoteManifestUrl":"http://192.168.1.53/jf2/remote-assets/pdk/project.manifest","remoteVersionUrl":"http://192.168.1.53/jf2/remote-assets/pdk/version.manifest","version":"1.0.0","assets":{},"searchPaths":[],"module":"pdk"}
+04-10 11:29:51.878 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0)
+04-10 11:29:51.879 14247-14265/org.cocos2d.uptest D/cocos2d-x: find in flash memory dirPath(/data/data/org.cocos2d.uptest/files/2.0_temp)
+04-10 11:29:51.881 14247-14265/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.0, version B is 1.0.4
+04-10 11:29:51.887 14247-14247/org.cocos2d.uptest D/Cocos2dxDownloader: onSuccess(i:200 headers:[Lcz.msebera.android.httpclient.Header;@c10f85f file:/data/data/org.cocos2d.uptest/files/2.0_temp/version.manifest.tmp
+04-10 11:29:51.892 14247-14265/org.cocos2d.uptest D/jswrapper: JS: 5  check cb=-------------------------------
+04-10 11:29:51.893 14247-14265/org.cocos2d.uptest D/jswrapper: JS: JS Custom Version Compare: version A is 1.0.4, version B is 1.0.4
+04-10 11:29:51.897 14247-14265/org.cocos2d.uptest D/jswrapper: JS: 4  check cb=-------------------------------
+04-10 11:29:51.898 14247-14265/org.cocos2d.uptest D/jswrapper: JS: project file exist
+04-10 11:29:51.899 14247-14265/org.cocos2d.uptest D/jswrapper: JS: remove project file:true
+04-10 11:29:51.899 14247-14265/org.cocos2d.uptest D/jswrapper: JS: go-----------------
+04-10 11:29:53.193 14247-14265/org.cocos2d.uptest D/jswrapper: JS: LoadScene ffgmrwE5NPXJDLMwqfC48T: 4.575000000000728ms
+04-10 11:29:53.193 14247-14265/org.cocos2d.uptest D/jswrapper: JS: [ERROR]: Failed to load scene: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+
+
